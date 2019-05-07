@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gf-client">
+    <CLASSES>
+      <root url="jar://F:/Program Files/glassfish-4.1.1/glassfish/lib/gf-client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
